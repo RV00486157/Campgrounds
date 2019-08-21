@@ -1,4 +1,4 @@
-# Yelpcamp
+# Campgrounds
 Campground Page
 
 This is an website that can be used to view different campgrounds around the world. Users can signup and add their own campgrounds, add 
